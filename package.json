@@ -1,0 +1,26 @@
+{
+  "name": "js-datastructures",
+  "version": "1.0.0",
+  "description": "Javascript Implementation of Data Structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwesleya/js-datastructures.git"
+  },
+  "author": "Wesley A. Chambers",
+  "license": "ISC",
+  "keywords": [
+    "datastructures",
+    "data",
+    "structures",
+    "javascript",
+    "algorithms"
+  ],
+  "bugs": {
+    "url": "https://github.com/cwesleya/js-datastructures/issues"
+  },
+  "homepage": "https://github.com/cwesleya/js-datastructures#readme"
+}

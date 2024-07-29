@@ -1,5 +1,5 @@
-function StackArray() {
-    this.items = [];
+function StackArray(initialArray = []) {
+    this.items = Array.isArray(initialArray) ? initialArray : [];
    
     this.isEmpty = () => this.items.length === 0;
 
